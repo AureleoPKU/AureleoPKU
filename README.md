@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Yankai Fu 👋 <br>
 </h1>
-<p> Hi! I am <strong>Yankai Fu</strong>, currently a Final year undergraduate student majoring in Information Security at Wuhan University and doing research at HMILab@PKU. I am an incoming MSc student in Computer Science, Peking University, advised by Prof. <a href="https://www.shanghangzhang.com/">Shanghang Zhang. </p>
+<p> Hi! I am <strong>Yankai Fu</strong>, currently a 1st-year MSc student in Computer Science, Peking University, advised by Prof. <a href="https://www.shanghangzhang.com/">Shanghang Zhang. </p>
 
 My research focuses on Embodied AI and Computer Vision.
 
