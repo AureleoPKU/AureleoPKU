@@ -14,6 +14,8 @@ My research focuses on Embodied AI and Computer Vision.
 *  Reforcement Learning / Dexterous Manipulation / Robot Learning
 
 ## 📑 Papers
+* Robobrain 2.0 technical report, [Technical Report](https://arxiv.org/pdf/2507.02029), [Webpage](https://superrobobrain.github.io/), [Repo](https://github.com/FlagOpen/RoboBrain2.0)
+* **[ICCV 2025]** 4D Visual Pre-training for Robot Learning, [Paper](https://arxiv.org/abs/2508.17230), [Webpage](https://4d-visual-pretraining.github.io/), [Repo](https://github.com/JackHck/FVP)
 * **[RSS 2025]** CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World, [Paper](https://arxiv.org/abs/2502.08449), [Webpage](https://aureleopku.github.io/CordViP), [Repo](https://github.com/xuanxuanzzzii/cordvip)
 * **[RSS 2025]** Robomind: Benchmark on multi-embodiment intelligence normative data for robot manipulation, [Paper](https://arxiv.org/abs/2412.13877), [Webpage](https://x-humanoid-robomind.github.io/), [Repo](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io)
 * **[S&P 2025]** Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models, [Paper](https://arxiv.org/abs/2410.10437), [Repo](https://github.com/AntigoneRandy/SIREN)
