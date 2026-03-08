@@ -13,6 +13,7 @@ My research focuses on Embodied AI and Computer Vision.
 *  IsaacGym / Mujoco / IsaacSim
 *  Reforcement Learning / Dexterous Manipulation / Robot Learning
 
+<!--
 ## 📑 Papers
 * Robobrain 2.0 technical report, [Technical Report](https://arxiv.org/pdf/2507.02029), [Webpage](https://superrobobrain.github.io/), [Repo](https://github.com/FlagOpen/RoboBrain2.0)
 * **[ICCV 2025]** 4D Visual Pre-training for Robot Learning, [Paper](https://arxiv.org/abs/2508.17230), [Webpage](https://4d-visual-pretraining.github.io/), [Repo](https://github.com/JackHck/FVP)
@@ -26,6 +27,7 @@ My research focuses on Embodied AI and Computer Vision.
 * **2023 Pacemaker to Merit Student** (Award Rate: 60/65000+ ~ 0.1%) Wuhan University
 * **2022 Pacemaker to Merit Student** (Award Rate: 60/65000+ ~ 0.1%) Wuhan University
 * **2021 National Scholarship (Award Rate: 0.2% nation-wide)** Ministry of Education, China
+-->
 <!--
 **AureleoPKU/AureleoPKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
